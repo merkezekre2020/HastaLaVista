@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Mikla",
+    "location": "İstanbul, Beyoğlu",
+    "cuisine": "Modern Türk",
+    "rating": 4.8,
+    "description": "Mikla, İstanbul'un tarihî belegtelerinden birinde restoran ve bar olarak hizmet vermektedir. Modern Türk mutfağını sunar ve şehir panoramasının eşsiz bir görünümünü sağlar.",
+    "image": "https://example.com/mikla.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Neolokal",
+    "location": "İstanbul, Karaköy",
+    "cuisine": "Neo-Lokal",
+    "rating": 4.7,
+    "description": "Neolokal, Salt Galata'da yer alır ve Türk mutfağının modern yorumunu sunar. Sürdürülebilirlik ve yerel ürünlere odaklanır.",
+    "image": "https://example.com/neolokal.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Çiya Sofrası",
+    "location": "İstanbul, Kadıköy",
+    "cuisine": "Anadolu",
+    "rating": 4.9,
+    "description": "Çiya Sofrası, Anadolu'nun çeşitli bölgelerinden gelen lezzetleri tek bir çatı altında sunar. Özellikle geographical indications (coğrafi işaret) ürünleriyle öne çıkar.",
+    "image": "https://example.com/ciya.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hamdi Restaurant",
+    "location": "İstanbul, Eminönü",
+    "cuisine": "Kebap",
+    "rating": 4.6,
+    "description": "Hamdi, Yeni Camii'nin kıyısında 위치한历史悠久的烤肉餐厅，以其烤肉和巴克拉瓦而闻名。",
+    "image": "https://example.com/hamdi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Karaköy Lokantası",
+    "location": "İstanbul, Karaköy",
+    "cuisine": "Türk",
+    "rating": 4.5,
+    "description": "Karaköy Lokantası, klasik Türk yemeklerini modern bir ortamda sunar. Özellikle mezeler ve deniz ürünleriyle öne çıkar.",
+    "image": "https://example.com/karakoy.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Zencefil",
+    "location": "Ankara, Kavaklıdere",
+    "cuisine": "Deniz Ürünleri",
+    "rating": 4.7,
+    "description": "Zencefil, Ankara'da deniz ürünleriyle öne çıkan bir restoran. Taze balık ve deniz ürünleriyle çeşitli lezzetler sunar.",
+    "image": "https://example.com/zencefil.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Beykoz Pavilion",
+    "location": "İstanbul, Beykoz",
+    "cuisine": "İnternasyonal",
+    "rating": 4.6,
+    "description": "Beykoz Pavilion, Boğaz'ın verdiği eşsiz manzara ile bir araya gelen lezzetler ve атмосфера를提供합니다。",
+    "image": "https://example.com/beykoz.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Severance",
+    "location": "İzmir, Alsancak",
+    "cuisine": "Modern Türk",
+    "rating": 4.4,
+    "description": "Severance, İzmir'in Alsancak semtinde yer alan küçük bir bistro. Yaratıcı menüsü ve sıcak atmosferi ile dikkat çeker.",
+    "image": "https://example.com/severance.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fırın Fıstık",
+    "location": "Gaziantep, Şahinbey",
+    "cuisine": "Antep Mutfağı",
+    "rating": 4.8,
+    "description": "Gaziantep'in ünlü fıstık ve et lezzetlerini sunan geleneksel bir restoran. Özellikle baklava ve kebapları ile öne çıkar.",
+    "image": "https://example.com/firin.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mado",
+    "location": "Bursa, Osmangazi",
+    "cuisine": "Tatlı",
+    "rating": 4.5,
+    "description": "Mado, Türkiye'nin çeşitli şehirlerinde bulunan bir zincir. Özellikle Maraş dondurması ve татар tatlıları ile ünlüdür.",
+    "image": "https://example.com/mado.jpg"
+  }
+]
